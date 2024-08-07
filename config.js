@@ -75,7 +75,7 @@ module.exports = {
   menu: process.env.MENU || "https://telegra.ph/file/8befb8f19593eadc17ea1.jpg",
 
   //Prefix variable
-  HANDLERS: process.env.PREFIX || "🇨🇬",
+  HANDLERS: process.env.PREFIX || "!",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "*Powered By 𖤐𝗦𝗲́𝗻𝗮𝘁𝗲𝘂𝗿✍️𝗕𝗹𝗮𝗰𝗸✞𝗞𝗶𝗹𝗹𝗲𝗿༒*",
